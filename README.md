@@ -23,3 +23,11 @@ A használt betűtípus Montserrat névre hallgat és bárki számára elérhet�
 </p>
 
 Az oldalon található elemeket HTML-ben kell megvalósítani míg a stílust és elhelyezkedést érintő formázásokat CSS használatával kell definiálni.
+
+**Elkészült oldal bemutatása**
+
+Az elkészült, még tartalom nélküli kezdőlap kinézete:
+
+<p align="center">
+<img src="Images/home.PNG" width="600">
+</p>
