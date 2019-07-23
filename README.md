@@ -16,4 +16,10 @@ A mellékoldalak tervezett felépítése:
 <img src="Designs/menuitem.jpg" width="500">
 </p>
 
+A használt betűtípus Montserrat névre hallgat és bárki számára elérhető itt: https://fonts.google.com/specimen/Montserrat
+
+<p align="center">
+<img src="Designs/MontserratFont.PNG" width="500">
+</p>
+
 Az oldalon található elemeket HTML-ben kell megvalósítani míg a stílust és elhelyezkedést érintő formázásokat CSS használatával kell definiálni.
