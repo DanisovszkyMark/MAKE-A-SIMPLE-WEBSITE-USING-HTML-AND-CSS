@@ -31,3 +31,13 @@ Az elkészült, még tartalom nélküli kezdőlap kinézete:
 <p align="center">
 <img src="Images/home.PNG" width="600">
 </p>
+
+A mellékoldalak kinézete:
+
+<p align="center">
+<img src="Images/howtouse.PNG" width="600">
+</p>
+
+<p align="center">
+<img src="Images/trainingsets.PNG" width="600">
+</p>
