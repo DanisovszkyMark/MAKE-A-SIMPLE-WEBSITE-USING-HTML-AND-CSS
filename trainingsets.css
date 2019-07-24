@@ -1,0 +1,118 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Montserrat', sans-serif;
+	color:white;
+}
+
+body{
+	background-image: url("images/bg.jpg");
+	background-size: 100vh;
+	background-position: center;
+	background-size: cover;
+}
+
+nav{
+	width: 100%; 
+	height: 100px;
+	display: flex;
+	color: white;
+}
+
+a{
+	text-decoration: none;
+}
+
+.logo{
+	width: 50%;
+	height: 100px;
+}
+
+.logo h1{
+	line-height: 100px;
+	padding-left: 50px;
+}
+
+.menu{
+	width: 50%;
+	height: 100px;
+}
+
+.menu ul{
+	width: 100%;
+	height: 100px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.menu ul a{
+	text-decoration: none;
+	list-style: none;
+	font-size: 12px;
+	font-weight: bold;
+	text-transform: uppercase;
+
+	color: white;
+	background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+}
+
+.menu ul a:hover{
+	color: orange;
+}
+
+section{
+	display: flex;
+}
+
+.oneside h1{
+	margin-top: 20px;
+	padding-left: 50px;
+	font-size: 50px;
+}
+
+.oneside p{
+	margin-top: 20px;
+	padding-left: 50px;
+}
+
+.oneside td a:hover{
+	color: orange;
+}
+
+table{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-left: 50px;
+	padding-left: 50px;
+  	font-family: arial, sans-serif;
+  	border-collapse: collapse;
+  	width: 100%;
+}
+
+td, th {
+  	border: 1px solid #dddddd;
+  	text-align: left;
+  	padding: 8px;
+}
+
+tr:nth-child(even) {
+	background-color: rgb(151,82,66);
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 10px;
+  width: 100%;
+
+  color: white;
+  text-align: center;
+}
